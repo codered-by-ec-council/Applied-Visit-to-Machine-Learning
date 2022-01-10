@@ -1,2 +1,2 @@
-# Applied-Visit-to-Machine-Learning
-Applied Visit to Machine Learning, by EC-Council
+# Practical-Applications-of-Machine-Learning
+Practical Applications of Machine Learning, by EC-Council
